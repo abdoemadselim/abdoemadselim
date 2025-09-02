@@ -1,5 +1,4 @@
 <div align="center">
-  <p>Visitor count</p>
   <img src="https://komarev.com/ghpvc/?username=abdoemadselim&label=Profile%20views&color=0e75b6&style=flat" alt="Visitor count" />
 </div>
 
@@ -9,16 +8,23 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=48&center=true&vCenter=true&width=500&height=70&color=4493F8&duration=4000&lines=Hi+There!+👋;+I'm+Abdelrahman+Emad!;" />
 </h1>
 
-## Not just passion, but responsibility: I’m a full-stack software engineer committed to building the right thing the right way.
+<h2 align="center">Not just passion, but responsibility: I’m a full-stack software engineer committed to building the right thing the right way.</h2>
+<p align="center">🌱 Currently learning <strong>Testing</strong> and taking the <strong>Scrimba AI course</strong></p>
 
-- 🌱 Currently learning **Testing** and taking the **Scrimba AI course**
-- 🚀 Building **Mukhtasar** — a URL shortener for the Arab world (similar to Bitly & TinyURL), powered by **Next.js, Express.js, PostgreSQL, Redis, and Cloudflare Workers**
+## 🚀 Projects  
 
-  <a href="https://www.mukhtasar.pro/" alt="Mukhtasar url shortener service">Check it here</a>
+### 🔗 [Mukhtasar](https://www.mukhtasar.pro/)  
+A modern **URL shortener for the Arab world** 🌍 — similar to Bitly & TinyURL but fully Arabic-first.  
+Built with **Next.js, Express.js, PostgreSQL, Redis, and Cloudflare Workers**, Mukhtasar makes link management faster, localized, and more accessible.  
 
-- Developed Minimo: an Electron-based productivity app to manage work & study sessions while encouraging healthy breaks, hydration, and exercise with **ease**
+---
 
-  <a href="https://www.minimoapp.pro/" alt="Minimo: productivity app">Check it here</a>
+### ⏱️ [Minimo](https://www.minimoapp.pro/)  
+An **Electron-based productivity app** to manage work & study sessions while promoting healthy breaks, hydration, and exercise.  
+Helps you **stay focused without burning out** by balancing efficiency with wellbeing.  
+
+---
+
 <br>
 
 <div align="center">
