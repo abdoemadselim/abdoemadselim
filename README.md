@@ -7,7 +7,7 @@
 </div>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Expletus+Sans&weight=500&size=50&duration=4000&pause=1000&color=3B59F7&background=FFFFFF00&center=true&vCenter=true&width=634&lines=Hi+there;I'm+Abdelrahman+Emad;Full-stack+software+engineer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Expletus+Sans&weight=500&size=50&duration=4000&pause=1000&color=3B59F7&background=FFFFFF00&center=true&vCenter=true&width=677&lines=Hi+there;I'm+Abdelrahman+Emad;Full-stack+software+engineer" alt="Typing SVG" />
 </h1>
 <h2 align="center">Not just passion, but responsibility: I’m a full-stack software engineer committed to building the right thing the right way.</h2>
 <p align="center">🌱 Currently learning <strong>Testing</strong> and taking the <strong>Scrimba AI course</strong></p>
