@@ -2,15 +2,17 @@
   <img src="https://komarev.com/ghpvc/?username=abdoemadselim&label=Profile%20views&color=0e75b6&style=flat" alt="Visitor count" />
 </div>
 
-<img src="https://github.com/abdoemadselim/abdoemadselim/blob/main/banner.jpeg" alt="Banner of a great saying of a great engineer">
+<div align="center">
+<img src="https://github.com/abdoemadselim/abdoemadselim/blob/main/banner.jpeg" alt="Banner of a great saying of a great engineer" align="center">
+</div>
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=48&center=true&vCenter=true&width=500&height=70&color=4493F8&duration=4000&lines=Hi+There!+👋;+I'm+Abdelrahman+Emad!;" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Expletus+Sans&weight=500&size=50&duration=4000&pause=1000&color=3B59F7&background=FFFFFF00&center=true&vCenter=true&width=634&lines=Hi+there;I'm+Abdelrahman+Emad;Full-stack+software+engineer" alt="Typing SVG" />
 </h1>
-
 <h2 align="center">Not just passion, but responsibility: I’m a full-stack software engineer committed to building the right thing the right way.</h2>
 <p align="center">🌱 Currently learning <strong>Testing</strong> and taking the <strong>Scrimba AI course</strong></p>
 
+---
 ## 🚀 Projects  
 
 ### 🔗 [Mukhtasar](https://www.mukhtasar.pro/)  
