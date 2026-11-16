@@ -12,21 +12,6 @@
 <h2 align="center">Not just passion, but responsibility: I’m a full-stack software engineer committed to building the right thing the right way.</h2>
 <p align="center">🌱 Currently learning <strong>Testing</strong> and taking the <strong>Scrimba AI course</strong></p>
 
----
-## 🚀 Projects  
-
-### 🔗 [Mukhtasar](https://www.mukhtasar.pro/)  
-A modern **URL shortener for the Arab world** 🌍 — similar to Bitly & TinyURL but fully Arabic-first.  
-Built with **Next.js, Express.js, PostgreSQL, Redis, and Cloudflare Workers**, Mukhtasar makes link management faster, localized, and more accessible.  
-
----
-
-### ⏱️ [Minimo](https://www.minimoapp.pro/)  
-An **Electron-based productivity app** to manage work & study sessions while promoting healthy breaks, hydration, and exercise.  
-Helps you **stay focused without burning out** by balancing efficiency with wellbeing.  
-
----
-
 <br>
 
 <div align="center">
